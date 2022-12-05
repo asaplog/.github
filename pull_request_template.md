@@ -8,15 +8,17 @@ Este é um simples checklist com os itens que você precisa verificar antes de s
 
 Se você não está seguro de que executou algum desses itens, não hesite em perguntar. Estamos aqui pra ajudar!
 
-- [ ] Seguir o padrão dos conventional commits
+- [ ] Código esta conforme os [padrões da ASAP Log](http://confluence.viavarejo.com.br/display/ASG/Clean+Code)
 - [ ] Detalhar suas alteracões na descricão do PR
-- [ ] Não deixar nenhuma variável inutilizada
 - [ ] Código formatado
-- [ ] Corrigir codesmells (se houver)
-- [ ] Nenhum apontantamento de warning/error no SonarQube
-- [ ] Adicionar documentação (se necessário)
-- [ ] Adicionar testes unitários com +80% de cobertura (se não houver)
 - [ ] Revisar seu próprio PR
+
+### Não obrigatórios
+
+- [ ] Corrigir codesmells
+- [ ] Nenhum apontantamento de warning/error no SonarQube
+- [ ] Adicionar documentação
+- [ ] Adicionar testes unitários com +80% de cobertura
 - [ ] Todos os testes passaram
 
 ## Evidências/Prints 👀
