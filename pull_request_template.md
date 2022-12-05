@@ -8,10 +8,12 @@ Este é um simples checklist com os itens que você precisa verificar antes de s
 
 Se você não está seguro de que executou algum desses itens, não hesite em perguntar. Estamos aqui pra ajudar!
 
-- [ ] Código esta conforme os [padrões da ASAP Log](http://confluence.viavarejo.com.br/display/ASG/Clean+Code)
+### Obrigatórios
+
+- [ ] Código esta conforme os [padrões da ASAP Log](http://confluence.viavarejo.com.br/x/E7N9Cg)
 - [ ] Detalhar suas alteracões na descricão do PR
-- [ ] Código formatado
 - [ ] Revisar seu próprio PR
+- [ ] Testar a solução localmente conforme critérios de aceite da história.
 
 ### Não obrigatórios
 
@@ -19,11 +21,10 @@ Se você não está seguro de que executou algum desses itens, não hesite em pe
 - [ ] Nenhum apontantamento de warning/error no SonarQube
 - [ ] Adicionar documentação
 - [ ] Adicionar testes unitários com +80% de cobertura
-- [ ] Todos os testes passaram
 
 ## Evidências/Prints 👀
 
-Caso necessário, adicione aqui os print para salvar evidências do PR.
+Adicione aqui prints para salvar evidências do PR.
 
 ## Comentários adicionais 🚨
 
