@@ -13,7 +13,7 @@ Se você não está seguro de que executou algum desses itens, não hesite em pe
 - [ ] Código esta conforme os [padrões da ASAP Log](http://confluence.viavarejo.com.br/x/E7N9Cg)
 - [ ] Detalhar suas alteracões na descricão do PR
 - [ ] Revisar seu próprio PR
-- [ ] Testar a solução localmente conforme critérios de aceite da história.
+- [ ] Testar a solução localmente conforme critérios de aceite da história
 
 ### Não obrigatórios
 
